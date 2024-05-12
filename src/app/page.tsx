@@ -1,5 +1,7 @@
 export default function Home() {
   return (
-    <h1 className="text-3xl text-center pt-10">Music School</h1>
+    <div className="min-h-screen bg-black/[0.96] antialiased">
+      
+    </div>
   );
 }
